@@ -1,8 +1,12 @@
 # image_processing
 
+
 MAC0417/5768 - Visão e Processamento de Imagens (2021)
+
 Exercício Programa 3 (EP3)
+
 Gabriela Melo e Richard Block
+
 
 O EP3 está dividido em duas partes. A primeira parte tem como objetivo a segmentação de imagens e a segunda parte tem como objetivo a classificação de imagens.
 

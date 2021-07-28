@@ -1,8 +1,8 @@
 # image_processing
 
-# MAC0417/5768 - Visão e Processamento de Imagens (2021)
-# Exercício Programa 3 (EP3)
-# Gabriela Melo e Richard Block
+MAC0417/5768 - Visão e Processamento de Imagens (2021)
+Exercício Programa 3 (EP3)
+Gabriela Melo e Richard Block
 
 O EP3 está dividido em duas partes. A primeira parte tem como objetivo a segmentação de imagens e a segunda parte tem como objetivo a classificação de imagens.
 
@@ -25,5 +25,5 @@ O código da segunda parte do EP está no Jupyter Notebook EP3.2_classification.
 
 ###
 
-# Projeto GitHub: https://github.com/gabi-melo/image_processing/tree/main/EP3
-# Base de imagens: https://www.kaggle.com/gabrielamelo/image-processing
+Projeto GitHub: https://github.com/gabi-melo/image_processing/tree/main/EP3
+Base de imagens: https://www.kaggle.com/gabrielamelo/image-processing
